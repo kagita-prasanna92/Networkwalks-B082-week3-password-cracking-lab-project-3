@@ -112,9 +112,8 @@ Johnny was configured to use the installed **John the Ripper Jumbo** executable.
 
 The configuration screen confirms that the JTR executable was detected successfully.
 
-### 📸 Evidence
+### 📸 Crack the password
 
-![John the Ripper / Johnny Configuration](Ripper_config1.png)
 
 ---
 
@@ -154,14 +153,16 @@ The extracted PDF hash was supplied to the NetworkWalks Password Cracker.
 
 The tool tested candidate passwords from a dictionary and identified a successful match.
 
-### 📸 Evidence
-
-![NetworkWalks Password Cracker](password_crack4.png) 
+### 📸 Crack the password 
+<img width="1028" height="622" alt="Screenshot 2026-08-30 111819" src="https://github.com/user-attachments/assets/830a2725-5260-428d-9984-eb3a33b27569" />
+<img width="988" height="620" alt="Screenshot 2026-08-30 111741" src="https://github.com/user-attachments/assets/e477a61d-61d6-4e59-810d-7b7b38ccc6d8" />
 
 
 ### ✅ Result
 
 **Password successfully recovered in the authorized lab environment.**
+<img width="814" height="588" alt="Screenshot 2026-08-30 111634" src="https://github.com/user-attachments/assets/c5dd6624-0c16-4e27-93cc-af10857afb5f" />
+
 
 > For security and responsible-publication purposes, the recovered password is intentionally not reproduced in this README.
 
