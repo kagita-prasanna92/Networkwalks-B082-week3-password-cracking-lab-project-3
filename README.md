@@ -60,39 +60,6 @@ Used to perform dictionary-based password testing against the extracted PDF hash
 ###  PDF Reader
 Used to verify that the recovered password successfully unlocks the protected PDF.
 
----
-
-#  Practical Workflow
-
-```text
-              Authorized Lab File
-                     │
-                     ▼
-             Password-Protected PDF
-                     │
-                     ▼
-                Hash Extraction
-                     │
-          ┌──────────┴──────────┐
-          ▼                     ▼
-   John the Ripper        NetworkWalks Tools
-      / Johnny             Hash Calculator
-          │                     │
-          ▼                     ▼
-     Password Hash        PDF Hash Output
-          │                     │
-          ▼                     ▼
-   Password Testing      Password Cracker
-          │                     │
-          └──────────┬──────────┘
-                     ▼
-             Password Verification
-                     │
-                     ▼
-               Flag / Result
-```
-
----
 
 #  W3-PM1 — John the Ripper / Johnny
 
