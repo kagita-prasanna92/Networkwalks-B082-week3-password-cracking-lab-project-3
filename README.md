@@ -112,12 +112,13 @@ Johnny was configured to use the installed **John the Ripper Jumbo** executable.
 
 The configuration screen confirms that the JTR executable was detected successfully.
 
-### 📸 Crack the password
-
+### 📸 Password cracked 
+<img width="1028" height="622" alt="Screenshot 2026-08-30 111819" src="https://github.com/user-attachments/assets/830a2725-5260-428d-9984-eb3a33b27569" />
+<img width="988" height="620" alt="Screenshot 2026-08-30 111741" src="https://github.com/user-attachments/assets/e477a61d-61d6-4e59-810d-7b7b38ccc6d8" />
 
 ---
 
-#  W3-PM2 — PDF Hash Extraction
+#  W3-PM2 — PDF 
 
 ## 2. Extracting the PDF Hash
 
@@ -125,9 +126,10 @@ The password-protected PDF was processed using a PDF hash-extraction tool.
 
 The resulting output was presented in a format compatible with password-auditing tools such as **John the Ripper** and **Hashcat**.
 
-### 📸 Evidence
+### 📸 Password cracked 
 
-![PDF Hash Extraction](hash_ripper2.png)
+<img width="979" height="621" alt="Screenshot 2026-08-30 113020" src="https://github.com/user-attachments/assets/3007634e-c29a-4d2b-b23a-fd8d3f8d410c" />
+<img width="472" height="585" alt="Screenshot 2026-08-30 112948" src="https://github.com/user-attachments/assets/372fe8d4-4a7f-44f7-98d4-9af55acf6262" />
 
 ---
 
@@ -135,13 +137,16 @@ The resulting output was presented in a format compatible with password-auditing
 
 ## 3. Hash Calculator
 
-The NetworkWalks Hash Calculator was used to analyze the protected PDF and generate a crackable PDF hash representation.
+The NetworkWalks Hash Calculator was used to analysed the protected PDF and generate a crackable PDF hash representation.
 
 The tool identified the PDF as encrypted and displayed the extracted hash.
 
-### 📸 Evidence
+### 📸 Password cracked 
 
-![NetworkWalks Hash Calculator](hash_calculator3.png)
+<img width="988" height="567" alt="Screenshot 2026-08-30 113508" src="https://github.com/user-attachments/assets/54a6f708-a98a-4fbb-9246-ab5b3858c7a6" />
+<img width="953" height="623" alt="Screenshot 2026-08-30 113450" src="https://github.com/user-attachments/assets/ad9e75f6-9183-48a9-b11b-abe25a5067e9" />
+<img width="548" height="536" alt="Screenshot 2026-08-30 113422" src="https://github.com/user-attachments/assets/bda419f2-4c28-4e05-ae99-082763243d61" />
+
 
 ---
 
@@ -154,14 +159,13 @@ The extracted PDF hash was supplied to the NetworkWalks Password Cracker.
 The tool tested candidate passwords from a dictionary and identified a successful match.
 
 ### 📸 Crack the password 
-<img width="1028" height="622" alt="Screenshot 2026-08-30 111819" src="https://github.com/user-attachments/assets/830a2725-5260-428d-9984-eb3a33b27569" />
-<img width="988" height="620" alt="Screenshot 2026-08-30 111741" src="https://github.com/user-attachments/assets/e477a61d-61d6-4e59-810d-7b7b38ccc6d8" />
+
 
 
 ### ✅ Result
 
 **Password successfully recovered in the authorized lab environment.**
-<img width="814" height="588" alt="Screenshot 2026-08-30 111634" src="https://github.com/user-attachments/assets/c5dd6624-0c16-4e27-93cc-af10857afb5f" />
+<img width="548" height="536" alt="Screenshot 2026-08-30 113422" src="https://github.com/user-attachments/assets/955dd26d-2133-4c5e-b045-c10f711d96a1" />
 
 
 > For security and responsible-publication purposes, the recovered password is intentionally not reproduced in this README.
@@ -175,10 +179,6 @@ The tool tested candidate passwords from a dictionary and identified a successfu
 After successful password recovery, the protected PDF was opened and verified.
 
 The lab PDF displayed a successful completion message and a captured flag.
-
-### 📸 Evidence
-
-![PDF Flag Verification](veri_flag5.png)
 
 ---
 
