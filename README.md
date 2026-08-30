@@ -86,7 +86,7 @@ The resulting output was presented in a format compatible with password-auditing
 ### 📸 Password cracked 
 
 <img width="979" height="621" alt="Screenshot 2026-08-30 113020" src="https://github.com/user-attachments/assets/3007634e-c29a-4d2b-b23a-fd8d3f8d410c" />
-<img width="472" height="585" alt="Screenshot 2026-08-30 112948" src="https://github.com/user-attachments/assets/372fe8d4-4a7f-44f7-98d4-9af55acf6262" />
+
 
 ---
 
@@ -102,7 +102,7 @@ The tool identified the PDF as encrypted and displayed the extracted hash.
 
 <img width="988" height="567" alt="Screenshot 2026-08-30 113508" src="https://github.com/user-attachments/assets/54a6f708-a98a-4fbb-9246-ab5b3858c7a6" />
 <img width="953" height="623" alt="Screenshot 2026-08-30 113450" src="https://github.com/user-attachments/assets/ad9e75f6-9183-48a9-b11b-abe25a5067e9" />
-<img width="548" height="536" alt="Screenshot 2026-08-30 113422" src="https://github.com/user-attachments/assets/bda419f2-4c28-4e05-ae99-082763243d61" />
+
 
 
 ---
@@ -122,7 +122,9 @@ The tool tested candidate passwords from a dictionary and identified a successfu
 ### ✅ Result
 
 **Password successfully recovered in the authorized lab environment.**
-<img width="548" height="536" alt="Screenshot 2026-08-30 113422" src="https://github.com/user-attachments/assets/955dd26d-2133-4c5e-b045-c10f711d96a1" />
+
+<img width="988" height="567" alt="Screenshot 2026-08-30 113508" src="https://github.com/user-attachments/assets/83c9a5f9-361d-4422-a052-f0b7f1da477c" />
+
 
 
 > For security and responsible-publication purposes, the recovered password is intentionally not reproduced in this README.
