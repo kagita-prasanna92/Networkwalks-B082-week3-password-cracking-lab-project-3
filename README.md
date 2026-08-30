@@ -70,8 +70,7 @@ Johnny was configured to use the installed **John the Ripper Jumbo** executable.
 The configuration screen confirms that the JTR executable was detected successfully.
 
 ### 📸 Password cracked 
-<img width="1028" height="622" alt="Screenshot 2026-08-30 111819" src="https://github.com/user-attachments/assets/830a2725-5260-428d-9984-eb3a33b27569" />
-<img width="988" height="620" alt="Screenshot 2026-08-30 111741" src="https://github.com/user-attachments/assets/e477a61d-61d6-4e59-810d-7b7b38ccc6d8" />
+<img width="903" height="447" alt="image" src="https://github.com/user-attachments/assets/d0b0caf0-cadb-4f86-95ba-7ac13bc64b32" />
 
 ---
 
