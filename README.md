@@ -9,16 +9,6 @@ As part of the **NetworkWalks Cybersecurity Internship — Batch B082, Week 03**
 
 The lab focused on understanding how a password-protected PDF can be processed into a crackable hash representation and how password-recovery tools can be used in an **authorized educational environment**.
 
-###  Practical Modules
-
-| Module | Activity | Main Tool |
-|---|---|---|
-|  W3-PM1 | Password cracking / JTR setup | John the Ripper / Johnny |
-|  W3-PM2 | PDF hash extraction | NetworkWalks Hash Calculator |
-|  W3-PM2 | Dictionary-based password testing | NetworkWalks Password Cracker |
-|  Verification | Open and verify the protected PDF | PDF Reader |
-
----
 
 ##  Objectives
 
